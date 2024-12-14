@@ -1,4 +1,5 @@
-data/*/*.fits
+
+data/*/*/*.fits
 data/*/*.nc
 # Byte-compiled / optimized / DLL files
 __pycache__/
